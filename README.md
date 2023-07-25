@@ -4,4 +4,4 @@ This is a simple graphic visualization of the MM2 queueing system. The user can 
 ## Instructions
 A new set of data refering to 7 days of 8 hours (3360 minutes) is generated if `dados.csv` is not present in the same directory as the program.
 
-One can use the <kbd>→</kbd> key to speed up by 0.5x and the <kbd>←</kbd> key to slow down by 0.5x. The up arrow increases the speed by 0.1x and the down arrow decreases the speed by 0.5x.
+One can use the <kbd>→</kbd> key to speed up by 0.5x and the <kbd>←</kbd> key to slow down by 0.5x.
